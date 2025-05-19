@@ -13,7 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
         // This is Output.
-        System.out.printf("Hello and welcome!");
+        System.out.println("Hello and welcome!");
 
         // ......
         for (int i = 1; i <= 5; i++) {
